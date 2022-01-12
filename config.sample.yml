@@ -1,0 +1,23 @@
+GUILD_ID: 1234
+STAFF_ROLE: 1234
+DRIVE_FOLDER: "abcde"
+MOD_CHANNEL: 1234
+
+PREFIXES:
+    - 'pls'
+    - 'sudo'
+    - '.'
+
+COMMAND_NAME: archive
+
+ROLEBAN_ROLE_NAMES:
+    - Roleban
+    - Rolebanned
+
+# Role IDs that get ignored when rolebanning/unrolebanning
+ROLEBAN_ROLE_IGNORE: []
+
+# How long until an unroleban goes stale (no archive autoname)
+UNROLEBAN_EXPIRY: 180
+
+TOKEN: abalabahaha
