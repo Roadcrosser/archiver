@@ -1,7 +1,9 @@
 GUILD_ID: 1234
 STAFF_ROLE: 1234
-DRIVE_FOLDER: "abcde"
 MOD_CHANNEL: 1234
+
+# Your Archive Folder ID. drive.google.com/drive/u/0/folders/[FOLDER ID HERE]
+DRIVE_FOLDER: "abcde"
 
 PREFIXES:
     - 'pls'
