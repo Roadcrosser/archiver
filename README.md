@@ -3,7 +3,7 @@
 - Install Python 3.8
 - Preferably use a [venv](https://realpython.com/python-virtual-environments-a-primer/)
 - `pip install -r requirements.txt`
-- Rename `config.sample.yml` to `config.yml`
+- Rename `config.sample.yml` to `config.yml` and fill in the information
 - Set up your Google stuff
     - Create a Google Developer Project on the [Cloud Platform](https://console.cloud.google.com/)
     - [Enable Google Drive on it](https://console.cloud.google.com/apis/library/drive.googleapis.com)
